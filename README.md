@@ -7,3 +7,5 @@ Adding a line
 
 Adding more content
 huha
+## local development
+1. open logo.html in your browser
